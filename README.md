@@ -37,9 +37,9 @@ Options:
 ## Sample Output
 ### HTML Report
 Index:
-[index html](images/index.png)
+![index html](/images/index.png)
 Similar results:
-[similar html](images/similar_results.png)
+![similar html](/images/similar_results.png)
 
 ### TXT Report
 ```
