@@ -1,0 +1,5 @@
+androguard==3.3.5
+xmldiff==2.4
+fnvhash==0.1.0
+Levenshtein==0.13.0
+Jinja2==3.0.2
